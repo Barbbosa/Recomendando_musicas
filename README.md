@@ -1,3 +1,5 @@
 Alunos: Caio da Silva Pereira, Fernanda Barbosa Ramos
 
   Este projeto, desenvolvido na disciplina de Estrutura de Dados do curso de Engenharia de Software, trata-se do desenvolvimento de um sistema de recomendação de músicas utilizando algoritmos de ordenação e busca. Para localizar músicas na lista, foi aplicada a busca sequencial, um método simples e eficiente que permite encontrar rapidamente faixas de acordo com o nome ou artista, demonstrando sua utilidade prática em sistemas de recomendação. A ordenação das músicas recomendadas foi realizada com o algoritmo Bubble Sort, que organiza as faixas comparando e trocando posições conforme suas pontuações. Além disso, o sistema utiliza a estratégia de sinergia, que recomenda músicas com base na afinidade, priorizando aquelas com pontuações próximas ou do mesmo artista. Portanto, o sistema combina técnicas de estrutura de dados e algoritmos para oferecer recomendações musicais mais precisas e relevantes.
+
+Google colab: https://colab.research.google.com/drive/18CUF3vV7Jn3qR2ZeudhFuw9PWiaM5Cbl#scrollTo=ASg7sZIiHuLO
