@@ -1,4 +1,3 @@
-Estrutura de Dados I - ENG.SOFT_N1-3132 (Not) _RRR_UDF
 Alunos: Caio da Silva Pereira, Fernanda Barbosa Ramos
 
   # Sistema de Recomendação de Músicas 
