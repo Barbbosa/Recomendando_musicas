@@ -1,3 +1,4 @@
+Estrutura de Dados I - ENG.SOFT_N1-3132 (Not) _RRR_UDF
 Alunos: Caio da Silva Pereira, Fernanda Barbosa Ramos
 
   # Sistema de Recomendação de Músicas 
@@ -15,7 +16,7 @@ Este projeto foi desenvolvido na disciplina de Estrutura de Dados do curso de En
 1. Certifique-se de ter o Python 3.x instalado.
 2. Execute o script:
    ```bash
-   python sistema_recomendacao_musicas.py
+   python codigo.py
    ```
 
 3. Digite o nome de uma música ou artista para receber recomendações.
