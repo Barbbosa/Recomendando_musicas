@@ -12,7 +12,7 @@ Este projeto foi desenvolvido na disciplina de Estrutura de Dados do curso de En
 
 ## Como executar
 
-1. Certifique-se de ter o Python 3.x instalado.
+1. Tenha em seu dispositivo o Python 3.x instalado.
 2. Execute o script:
    ```bash
    python codigo.py
