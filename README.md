@@ -39,4 +39,4 @@ The Weeknd - Save Your Tears (3.35 min), Score: 9.0
 - O sistema utiliza uma lista pré-definida de músicas.
 - Desenvolvido para fins educacionais.
 
-Google colab: https://colab.research.google.com/drive/18CUF3vV7Jn3qR2ZeudhFuw9PWiaM5Cbl#scrollTo=ASg7sZIiHuLO
+Google colab: https://colab.research.google.com/drive/18CUF3vV7Jn3qR2ZeudhFuw9PWiaM5Cbl#scrollTo=fr-nqHFYTNB-
