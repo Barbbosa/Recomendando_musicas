@@ -1,4 +1,4 @@
-Alunos: Caio da Silva Pereira, Fernanda Barbosa Ramos
+Alunos: Caio da Silva Pereira, Fernanda Barbosa Ramos e Vitor Hugo Gusmão
 
   # Sistema de Recomendação de Músicas 
 
